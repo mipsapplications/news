@@ -1,0 +1,86 @@
+<newsapp>
+<song>
+	<id>1</id>
+	<title>BBC Hindi</title>
+	<artist>Namaskar Bharat</artist>
+	<duration>30:00</duration>
+	<thumb_url>R.drawable.bbc</thumb_url>
+</song>
+<song>
+	<id>2</id>
+	<title>BBC Hindi</title>
+	<artist>Din Bhar</artist>
+	<duration>30:08</duration>
+	<thumb_url>R.drawable.bbchin</thumb_url>
+</song>
+<song>
+<id>3</id>
+	<title>BBC English</title>
+	<artist>BBC World News, News Hour</artist>
+	<duration>30:04</duration>
+	<thumb_url>R.drawable.bbcworld</thumb_url>
+</song>
+<song>
+<id>4</id>
+	<title>BBC Arabic</title>
+	<artist>BBC Arabic News </artist>
+	<duration>38:50</duration>
+	<thumb_url>R.drawable.bbcarabic</thumb_url>
+</song>
+<song>
+<id>5</id>
+	<title>BBC Russian</title>
+	<artist>BBC News Russian</artist>
+	<duration>4:04</duration>
+	<thumb_url>R.drawable.bbcrussian</thumb_url>
+</song>
+<song>
+<id>6</id>
+	<title>BBC Tamil</title>
+	<artist>BBC Tamil Technology news, bi-weekly updated</artist>
+	<duration>9:00</duration>
+	<thumb_url>R.drawable.bbctamil</thumb_url>
+</song>
+<song>
+<id>7</id>
+	<title>BBC Nepali</title>
+	<artist>BBC Nepali news</artist>
+	<duration>08:50</duration>
+	<thumb_url>R.drawable.bbcne</thumb_url>
+</song>
+<song>
+<id>8</id>
+	<title>BBC Persian</title>
+	<artist>BBC Persian news</artist>
+	<duration>38:50</duration>
+	<thumb_url>R.drawable.bbcpersian</thumb_url>
+</song>
+<song>
+<id>9</id>
+	<title>BBC Chinese</title>
+	<artist>BBC News in Chinese</artist>
+	<duration>4:04</duration>
+	<thumb_url>R.drawable.bbcchinese</thumb_url>
+</song>
+<song>
+<id>10</id>
+	<title>BBC Indonesian</title>
+	<artist>BBC News in Indonesian</artist>
+	<duration>9:00</duration>
+	<thumb_url>R.drawable.bbcindo</thumb_url>
+</song>
+<song>
+<id>11</id>
+	<title>BBC Burmese</title>
+	<artist>BBC Burmese News</artist>
+	<duration>30:04</duration>
+	<thumb_url>R.drawable.bbcburm</thumb_url>
+</song>
+<song>
+<id>12</id>
+	<title>BBC Africa Today</title>
+	<artist>BBC  Africa News</artist>
+	<duration>30:04</duration>
+	<thumb_url>R.drawable.bbcafrica</thumb_url>
+</song>
+</newsapp>
